@@ -1,5 +1,3 @@
-# GitHub_actions-Devops
-
 # GitHub-Actions-Devops
 Repository to kick start your journey with GitHub Actions
 
@@ -12,6 +10,7 @@ Repository to kick start your journey with GitHub Actions
 - User interface: Jenkins has a complex and sophisticated user interface, while GitHub Actions has a more streamlined and user-friendly interface that is better suited for simple to moderate automation tasks.
 
 - Cost: Jenkins can be expensive to run and maintain, especially for organizations with large and complex automation needs. GitHub Actions, on the other hand, is free for open-source projects and has a tiered pricing model for private repositories, making it more accessible to smaller organizations and individual developers.
+- Easy to use:  GitHub Actions provides a wide range of built-in options and integrations, simplifying the process of creating and managing workflows for users.
 
 ### Advantages of Jenkins over GitHub Actions
 
